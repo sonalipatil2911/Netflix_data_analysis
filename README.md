@@ -17,7 +17,7 @@ The dataset includes detailed information on:
 - Duration: Runtime or episode count
 
 **<h3>Dataset</h3>**
-Dataset Link: <a href = "https://github.com/sonalipatil2911/Netflix_data_analysis/blob/main/analysis.sql">Movies Dataset</a>
+Dataset Link: <a href = "https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download">Movies Dataset</a>
 
 **<h3>💡Objectives</h3>**
 Analyze the distribution of content types (movies vs TV shows).
