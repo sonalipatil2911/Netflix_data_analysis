@@ -17,6 +17,9 @@ The dataset includes detailed information on:
 - Duration: Runtime or episode count
 
 **<h3>Dataset</h3>**
+
+The data for this project is sourced from the Kaggle dataset:
+
 Dataset Link: <a href = "https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download">Movies Dataset</a>
 
 **<h3>💡Objectives</h3>**
