@@ -13,5 +13,5 @@ Explore and categorize content based on specific criteria and keywords.
 
 <h3>Dataset</h3>
 The data for this project is sourced from the Kaggle dataset:
-Dataset Link: [Movies Dataset](<a href = 'analysis.sql')
+Dataset Link: <a href = "https://github.com/sonalipatil2911/Netflix_data_analysis/blob/main/analysis.sql">Movies Dataset</a>
 
